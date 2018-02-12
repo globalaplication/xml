@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+    <ogrenci name="Ögrenci1">
+        <sinifi>10A</sinifi>
+        <numarasi>101</numarasi>
+    </ogrenci>
+    <ogrenci name="Ögrenci2">
+        <sinifi>11B</sinifi>
+        <numarasi>10</numarasi>
+    </ogrenci>
+    <people name="Ögrenci3">
+        <sinifi>6C</sinifi>
+        <numarasi>103</numarasi>
+    </people>
+</data>
